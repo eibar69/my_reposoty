@@ -1,1 +1,3 @@
-print('hello world')
+print('goodbye world!')
+print('2+2=',2+2)
+
